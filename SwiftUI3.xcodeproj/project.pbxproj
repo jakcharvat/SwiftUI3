@@ -51,6 +51,7 @@
 		DE2F0136266FFB39000CFA70 /* Materials.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Materials.swift; sourceTree = "<group>"; };
 		DE2F0137266FFB39000CFA70 /* AsyncImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AsyncImageView.swift; sourceTree = "<group>"; };
 		DE2F0149266FFB8F000CFA70 /* Item.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
+		DE2F014B266FFC60000CFA70 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +68,7 @@
 		DE2F00FE266FFA2E000CFA70 = {
 			isa = PBXGroup;
 			children = (
+				DE2F014B266FFC60000CFA70 /* README.md */,
 				DE2F0109266FFA2E000CFA70 /* SwiftUI3 */,
 				DE2F0108266FFA2E000CFA70 /* Products */,
 			);
