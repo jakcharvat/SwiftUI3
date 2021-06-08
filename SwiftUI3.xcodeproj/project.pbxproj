@@ -8,17 +8,49 @@
 
 /* Begin PBXBuildFile section */
 		DE2F010B266FFA2E000CFA70 /* SwiftUI3App.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F010A266FFA2E000CFA70 /* SwiftUI3App.swift */; };
-		DE2F010D266FFA2E000CFA70 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F010C266FFA2E000CFA70 /* ContentView.swift */; };
 		DE2F010F266FFA30000CFA70 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE2F010E266FFA30000CFA70 /* Assets.xcassets */; };
 		DE2F0112266FFA30000CFA70 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE2F0111266FFA30000CFA70 /* Preview Assets.xcassets */; };
+		DE2F0124266FFB25000CFA70 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F0123266FFB25000CFA70 /* ContentView.swift */; };
+		DE2F0138266FFB39000CFA70 /* AutocompleteSearchable.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F0127266FFB39000CFA70 /* AutocompleteSearchable.swift */; };
+		DE2F0139266FFB39000CFA70 /* SearchableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F0128266FFB39000CFA70 /* SearchableView.swift */; };
+		DE2F013A266FFB39000CFA70 /* Menus.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F0129266FFB39000CFA70 /* Menus.swift */; };
+		DE2F013B266FFB39000CFA70 /* AsyncPullToRefresh.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F012A266FFB39000CFA70 /* AsyncPullToRefresh.swift */; };
+		DE2F013C266FFB39000CFA70 /* SheetNews.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F012C266FFB39000CFA70 /* SheetNews.swift */; };
+		DE2F013D266FFB39000CFA70 /* AlertNews.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F012D266FFB39000CFA70 /* AlertNews.swift */; };
+		DE2F013E266FFB39000CFA70 /* SwipeActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F012E266FFB39000CFA70 /* SwipeActions.swift */; };
+		DE2F013F266FFB39000CFA70 /* Badges.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F012F266FFB39000CFA70 /* Badges.swift */; };
+		DE2F0140266FFB39000CFA70 /* ListSeparators.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F0130266FFB39000CFA70 /* ListSeparators.swift */; };
+		DE2F0141266FFB39000CFA70 /* ForegroundStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F0131266FFB39000CFA70 /* ForegroundStyles.swift */; };
+		DE2F0142266FFB39000CFA70 /* OnSubmit.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F0133266FFB39000CFA70 /* OnSubmit.swift */; };
+		DE2F0143266FFB39000CFA70 /* KeyboardControls.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F0134266FFB39000CFA70 /* KeyboardControls.swift */; };
+		DE2F0144266FFB39000CFA70 /* Markdown.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F0135266FFB39000CFA70 /* Markdown.swift */; };
+		DE2F0145266FFB39000CFA70 /* Materials.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F0136266FFB39000CFA70 /* Materials.swift */; };
+		DE2F0146266FFB39000CFA70 /* AsyncImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F0137266FFB39000CFA70 /* AsyncImageView.swift */; };
+		DE2F014A266FFB8F000CFA70 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2F0149266FFB8F000CFA70 /* Item.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		DE2F0107266FFA2E000CFA70 /* SwiftUI3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE2F010A266FFA2E000CFA70 /* SwiftUI3App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI3App.swift; sourceTree = "<group>"; };
-		DE2F010C266FFA2E000CFA70 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DE2F010E266FFA30000CFA70 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE2F0111266FFA30000CFA70 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DE2F0123266FFB25000CFA70 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		DE2F0127266FFB39000CFA70 /* AutocompleteSearchable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AutocompleteSearchable.swift; sourceTree = "<group>"; };
+		DE2F0128266FFB39000CFA70 /* SearchableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchableView.swift; sourceTree = "<group>"; };
+		DE2F0129266FFB39000CFA70 /* Menus.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Menus.swift; sourceTree = "<group>"; };
+		DE2F012A266FFB39000CFA70 /* AsyncPullToRefresh.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AsyncPullToRefresh.swift; sourceTree = "<group>"; };
+		DE2F012C266FFB39000CFA70 /* SheetNews.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SheetNews.swift; sourceTree = "<group>"; };
+		DE2F012D266FFB39000CFA70 /* AlertNews.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlertNews.swift; sourceTree = "<group>"; };
+		DE2F012E266FFB39000CFA70 /* SwipeActions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwipeActions.swift; sourceTree = "<group>"; };
+		DE2F012F266FFB39000CFA70 /* Badges.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Badges.swift; sourceTree = "<group>"; };
+		DE2F0130266FFB39000CFA70 /* ListSeparators.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListSeparators.swift; sourceTree = "<group>"; };
+		DE2F0131266FFB39000CFA70 /* ForegroundStyles.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForegroundStyles.swift; sourceTree = "<group>"; };
+		DE2F0133266FFB39000CFA70 /* OnSubmit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnSubmit.swift; sourceTree = "<group>"; };
+		DE2F0134266FFB39000CFA70 /* KeyboardControls.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardControls.swift; sourceTree = "<group>"; };
+		DE2F0135266FFB39000CFA70 /* Markdown.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Markdown.swift; sourceTree = "<group>"; };
+		DE2F0136266FFB39000CFA70 /* Materials.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Materials.swift; sourceTree = "<group>"; };
+		DE2F0137266FFB39000CFA70 /* AsyncImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AsyncImageView.swift; sourceTree = "<group>"; };
+		DE2F0149266FFB8F000CFA70 /* Item.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +84,9 @@
 			isa = PBXGroup;
 			children = (
 				DE2F010A266FFA2E000CFA70 /* SwiftUI3App.swift */,
-				DE2F010C266FFA2E000CFA70 /* ContentView.swift */,
+				DE2F0123266FFB25000CFA70 /* ContentView.swift */,
+				DE2F0149266FFB8F000CFA70 /* Item.swift */,
+				DE2F0125266FFB39000CFA70 /* SwiftUI 3 */,
 				DE2F010E266FFA30000CFA70 /* Assets.xcassets */,
 				DE2F0110266FFA30000CFA70 /* Preview Content */,
 			);
@@ -65,6 +99,52 @@
 				DE2F0111266FFA30000CFA70 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		DE2F0125266FFB39000CFA70 /* SwiftUI 3 */ = {
+			isa = PBXGroup;
+			children = (
+				DE2F0126266FFB39000CFA70 /* Searchable */,
+				DE2F0129266FFB39000CFA70 /* Menus.swift */,
+				DE2F012A266FFB39000CFA70 /* AsyncPullToRefresh.swift */,
+				DE2F012B266FFB39000CFA70 /* Sheets and Alerts */,
+				DE2F012E266FFB39000CFA70 /* SwipeActions.swift */,
+				DE2F012F266FFB39000CFA70 /* Badges.swift */,
+				DE2F0130266FFB39000CFA70 /* ListSeparators.swift */,
+				DE2F0131266FFB39000CFA70 /* ForegroundStyles.swift */,
+				DE2F0132266FFB39000CFA70 /* Form Controls */,
+				DE2F0135266FFB39000CFA70 /* Markdown.swift */,
+				DE2F0136266FFB39000CFA70 /* Materials.swift */,
+				DE2F0137266FFB39000CFA70 /* AsyncImageView.swift */,
+			);
+			path = "SwiftUI 3";
+			sourceTree = "<group>";
+		};
+		DE2F0126266FFB39000CFA70 /* Searchable */ = {
+			isa = PBXGroup;
+			children = (
+				DE2F0127266FFB39000CFA70 /* AutocompleteSearchable.swift */,
+				DE2F0128266FFB39000CFA70 /* SearchableView.swift */,
+			);
+			path = Searchable;
+			sourceTree = "<group>";
+		};
+		DE2F012B266FFB39000CFA70 /* Sheets and Alerts */ = {
+			isa = PBXGroup;
+			children = (
+				DE2F012C266FFB39000CFA70 /* SheetNews.swift */,
+				DE2F012D266FFB39000CFA70 /* AlertNews.swift */,
+			);
+			path = "Sheets and Alerts";
+			sourceTree = "<group>";
+		};
+		DE2F0132266FFB39000CFA70 /* Form Controls */ = {
+			isa = PBXGroup;
+			children = (
+				DE2F0133266FFB39000CFA70 /* OnSubmit.swift */,
+				DE2F0134266FFB39000CFA70 /* KeyboardControls.swift */,
+			);
+			path = "Form Controls";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +217,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DE2F010D266FFA2E000CFA70 /* ContentView.swift in Sources */,
+				DE2F013C266FFB39000CFA70 /* SheetNews.swift in Sources */,
+				DE2F013B266FFB39000CFA70 /* AsyncPullToRefresh.swift in Sources */,
+				DE2F013F266FFB39000CFA70 /* Badges.swift in Sources */,
+				DE2F013D266FFB39000CFA70 /* AlertNews.swift in Sources */,
+				DE2F0143266FFB39000CFA70 /* KeyboardControls.swift in Sources */,
+				DE2F0146266FFB39000CFA70 /* AsyncImageView.swift in Sources */,
+				DE2F0141266FFB39000CFA70 /* ForegroundStyles.swift in Sources */,
+				DE2F0145266FFB39000CFA70 /* Materials.swift in Sources */,
+				DE2F0139266FFB39000CFA70 /* SearchableView.swift in Sources */,
+				DE2F0142266FFB39000CFA70 /* OnSubmit.swift in Sources */,
+				DE2F014A266FFB8F000CFA70 /* Item.swift in Sources */,
+				DE2F013A266FFB39000CFA70 /* Menus.swift in Sources */,
+				DE2F0140266FFB39000CFA70 /* ListSeparators.swift in Sources */,
+				DE2F013E266FFB39000CFA70 /* SwipeActions.swift in Sources */,
+				DE2F0144266FFB39000CFA70 /* Markdown.swift in Sources */,
 				DE2F010B266FFA2E000CFA70 /* SwiftUI3App.swift in Sources */,
+				DE2F0124266FFB25000CFA70 /* ContentView.swift in Sources */,
+				DE2F0138266FFB39000CFA70 /* AutocompleteSearchable.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,7 +373,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -307,7 +403,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
